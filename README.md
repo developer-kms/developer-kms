@@ -1,4 +1,4 @@
-### :star: 모두가 함께하고 싶어하는, 내일이 기대되는 벡엔드 개발자가 되기 위해 항상 노력하는 김민수 입니다:)
+### :star: 모두가 함께하고 싶어하는, 내일이 기대되는 벡엔드 개발자가 되기 위해 달려가는 김민수 입니다:)
 <!-- ### Junior Server-Backend Developer -->
 <br>
   <a href="https://mindu6424.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF3366?style=flat-square&logo=Tistory&logoColor=white"/>
