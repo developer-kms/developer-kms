@@ -5,7 +5,7 @@
 
 <!-- ### Junior Server-Backend Developer -->
 <br>
-  
+  <a href="https://mindu6424.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF3366?style=flat-square&logo=Tistory&logoColor=white"/>
   <img src="https://img.shields.io/badge/mindu6424@naver.com-5A45FF?style=flat-square&logo=Mail.Ru&logoColor=white"/>
 <br>
   <br>
