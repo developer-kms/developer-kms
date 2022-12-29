@@ -29,9 +29,9 @@
     <img src="https://img.shields.io/badge/Draw.io-407AFC?style=flat-square&logo=GitBook&logoColor=white"/>
     <img src="https://img.shields.io/badge/ErdCloud-DA1F26?style=flat-square&logo=GitBook&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-56B366?style=flat-square&logo=Notion&logoColor=white"/>
-  <h4>- Deployment</h4>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MobaXterm-6D4C9F?style=flat-square&logo=Monster&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nginx-EF323D?style=flat-square&logo=NGINX&logoColor=white"/>
+  <h4>- OS & Infra</h4>
+    <img src="https://img.shields.io/badge/Ubuntu-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS(S3, Lightsail)-6D4C9F?style=flat-square&logo=Monster&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-EF323D?style=flat-square&logo=NGINX&logoColor=white"/> -->
   <br>
