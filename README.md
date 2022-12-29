@@ -1,4 +1,4 @@
-### :star: Hello, My name is MinSu Kim :)
+### :star: 모두가 함께하고 싶어하는, 내일이 기대되는 벡엔드 개발자가 되기 위해 항상 노력하는 김민수 입니다:)
 <!-- ### Junior Server-Backend Developer -->
 <br>
   <a href="https://mindu6424.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF3366?style=flat-square&logo=Tistory&logoColor=white"/>
@@ -33,8 +33,3 @@
     <img src="https://img.shields.io/badge/Nginx-EF323D?style=flat-square&logo=NGINX&logoColor=white"/>
   <br>
   
-  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
