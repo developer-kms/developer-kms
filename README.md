@@ -5,8 +5,8 @@
 
 <!-- ### Junior Server-Backend Developer -->
 <br>
-  <a href="https://mindu6424.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF3366?style=flat-square&logo=Tistory&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mindu6424@naver.com-5A45FF?style=flat-square&logo=Mail.Ru&logoColor=white"/>
+<!--   <a href="https://mindu6424.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF3366?style=flat-square&logo=Tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mindu6424@naver.com-5A45FF?style=flat-square&logo=Mail.Ru&logoColor=white"/> -->
 <br>
   <br>
   <h3>📈 Skills</h3>
@@ -31,7 +31,7 @@
   <h4>- Collaborate</h4>
     <img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Discord-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-FF3366?style=flat-square&logo=Figma&logoColor=white"/>
   <h4>- Etc</h4>
     <img src="https://img.shields.io/badge/Draw.io-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/ErdCloud-6D4C9F?style=flat-square&logo=Monster&logoColor=white"/>
