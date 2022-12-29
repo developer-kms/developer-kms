@@ -10,11 +10,10 @@
 <br>
   <br>
   <h3>📈 Skills</h3>
-  <h4>- Frontend</h4>
-    <img src="https://img.shields.io/badge/CSS-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVASCRIPT(JQUERY)-0769AD?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+  <h4>- Langauge</h4>
+    <img src="https://img.shields.io/badge/Python-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/Java-EF323D?style=flat-square&logo=NGINX&logoColor=white"/> -->
   <h4>- Backend(★)</h4>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Python&logoColor=white"/>
