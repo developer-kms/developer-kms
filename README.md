@@ -5,8 +5,6 @@
 - 가독성을 높일 수 있는 클린 코드로 작성하기 위해 노력합니다. <br>
 - 협업을 통해 혼자가 아닌 함께 성장하는 삶을 추구합니다.
 <!-- ### Junior Server-Backend Developer -->
-  <a href="https://mindu6424.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF3366?style=flat-square&logo=Tistory&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mindu6424@naver.com-5A45FF?style=flat-square&logo=Mail.Ru&logoColor=white"/>
   <h3>**Stacks</h3>
   <h4>- Frontend</h4>
     <img src="https://img.shields.io/badge/CSS-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
