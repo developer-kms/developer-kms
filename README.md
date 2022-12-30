@@ -40,4 +40,4 @@
   </p>
   <br>
   <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-kms&show_icons=true&theme=buefy)
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-kms&theme=buefy&show_icons=true">
