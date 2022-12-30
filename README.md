@@ -7,6 +7,7 @@
 <!-- ### Junior Server-Backend Developer -->
   <h3>**Stacks</h3>
   <h4>- Frontend</h4>
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
     <img src="https://img.shields.io/badge/CSS-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVASCRIPT(JQUERY)-0769AD?style=flat-square&logo=JavaScript&logoColor=white"/>
