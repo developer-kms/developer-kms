@@ -37,7 +37,7 @@
   <h4>- OS & Infra</h4>
   <p>
   <img src="https://img.shields.io/badge/Ubuntu-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS(S3, Lightsail)-6D4C9F?style=flat-square&logo=Monster&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS(S3, Lightsail, )-6D4C9F?style=flat-square&logo=Monster&logoColor=white"/>
   </p>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=developer-kms&theme=buefy&show_icons=true">
