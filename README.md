@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C2C6BF&title_bg=%23F38696&icon=github.svg&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 <h3>**Introduce</h3>
 - 안녕하세요. 모두가 함께하고 싶어하며 내일이 기대되는 벡엔드 개발자🧑🏻‍💻로 성장하고 싶습니다. <br>
 - 가독성을 높일 수 있는 클린 코드로 작성하기 위해 노력합니다. <br>
