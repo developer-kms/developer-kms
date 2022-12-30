@@ -39,3 +39,5 @@
   <img src="https://img.shields.io/badge/AWS(S3, Lightsail)-6D4C9F?style=flat-square&logo=Monster&logoColor=white"/>
   </p>
   <br>
+  <br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/developer-kms&show_icons=true&theme=buefy)
