@@ -40,4 +40,4 @@
   <img src="https://img.shields.io/badge/AWS(S3, Lightsail, IAM)-6D4C9F?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   </p>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-kms&theme=buefy&show_icons=true">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=developer-kms&theme=buefy&show_icons=true"> -->
